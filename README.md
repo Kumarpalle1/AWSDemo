@@ -1,0 +1,2 @@
+# AWSDemo
+To practice AWS
